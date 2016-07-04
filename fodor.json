@@ -48,6 +48,6 @@
         "title": "Age",
         "name": "age",
         "type": "number"
-    },
+    }
   ]
 }
