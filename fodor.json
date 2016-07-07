@@ -45,6 +45,11 @@
         "type": "url"
     },
     {
+        "title": "Password",
+        "name": "password",
+        "type": "password"
+    },
+    {
         "title": "Age",
         "name": "age",
         "type": "number"
