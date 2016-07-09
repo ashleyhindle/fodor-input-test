@@ -67,6 +67,6 @@
         "notes": "Can only be a string of b's",
         "type": "password",
         "regex": "[b]+"
-    },
+    }
   ]
 }
