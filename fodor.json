@@ -53,6 +53,20 @@
         "title": "Age",
         "name": "age",
         "type": "number"
-    }
+    },
+    {
+        "title": "String with regex",
+        "name": "string_with_regex",
+        "notes": "Must be between 4 and 6 chars long",
+        "type": "string",
+        "regex": ".{4,6}"
+    },
+    {
+        "title": "Password with regex",
+        "name": "password_with_regex",
+        "notes": "Can only be a string of b's",
+        "type": "password",
+        "regex": "[b]+"
+    },
   ]
 }
